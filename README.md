@@ -70,4 +70,8 @@ Authorization
 -----
 SchedulX is licensed under the [Apache 2.0 license](https://github.com/galaxy-future/schedulx/blob/master/README.md) agreement.
 
+Contact us
+For more information about SchedulX, scan the following QR code to contact us:
+![image](https://user-images.githubusercontent.com/102009012/163556077-703399e7-ef48-43c4-93fc-c01fa5f5a1f5.png)
+
 
